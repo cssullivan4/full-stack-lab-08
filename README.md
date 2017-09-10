@@ -8,6 +8,25 @@
 * When a shape is clicked, you should update the sidepanel with the metrics for that shape
 * Each type of shape will have its own input box(es) for getting size information, and an insert button for drawing the shape on the page
 
+## Example
+![Alt text](/shape-1.png?raw=true "Example of Shapes")
+### Start
+
+![Alt text](/shape-2.png?raw=true "Example of Shapes")
+### Create Square
+
+![Alt text](/shape-3.png?raw=true "Example of Shapes")
+### Add Rectange, Circle, and Triangle
+
+![Alt text](/shape-4.png?raw=true "Example of Shapes")
+### Click shape for information
+
+![Alt text](/shape-5.png?raw=true "Example of Shapes")
+### Click shape for information
+
+![Alt text](/shape-6.png?raw=true "Example of Shapes")
+### Double-click shape to delete
+
 ## Getting Started
 * Create an index.html file, script.js file, and a css file for styling
 
